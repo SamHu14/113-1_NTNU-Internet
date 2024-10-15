@@ -5,5 +5,5 @@
 ## HW1 個人網站
 1.網頁網址 https://samhu14.github.io/pre_web/  
 ## HW2 React互動網頁（日記軟體）
-1.介紹影片 https://youtu.be/8q5lqKDrZAo
+1.介紹影片 https://youtu.be/8q5lqKDrZAo  
 2.網頁網址
