@@ -7,8 +7,8 @@
 ## HW2 React互動網頁（日記軟體）
 1. 介紹影片 https://youtu.be/8q5lqKDrZAo  
 2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW2_internet
-## HW3
-
+## HW3 React 專案範例
+1. 簡報影片 https://youtu.be/9BDhnK4ui1Y
 ## HW4
 
 ## Final Project
