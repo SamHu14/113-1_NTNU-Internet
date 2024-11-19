@@ -7,8 +7,9 @@
    另一個repo：https://samhu14.github.io/pre_web/
 2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW1_personal_web
 ## HW2 React互動網頁（日記軟體）
-1. 介紹影片 https://youtu.be/8q5lqKDrZAo  
-2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW2_react_practise
+1. 介紹影片 https://youtu.be/8q5lqKDrZAo
+2. 網頁網址 https://one1-19-v5.onrender.com  
+3. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW2_react_practise
 ## HW3 React 專案範例
 1. 介紹影片 https://youtu.be/9BDhnK4ui1Y
 2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW3_combine
