@@ -11,8 +11,8 @@
 2. 網頁網址 https://one1-19-v5.onrender.com  
 3. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW2_react_practise
 ## HW3 React 專案範例
-1. 介紹影片 https://youtu.be/9BDhnK4ui1Y
-2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW3_combine
+1. 介紹影片 
+2. 程式碼 https://github.com/SamHu14/113-1_NTNU-Internet/tree/main/HW3
 ## HW4 Render 網頁上架
 1. 網頁網址
 ## Final Project
